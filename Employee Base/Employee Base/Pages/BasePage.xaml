@@ -1,0 +1,27 @@
+﻿<Page x:Class="Employee_Base.BasePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Employee_Base"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="BasePage">
+
+    <Grid Background="Bisque">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        
+        <DockPanel Background="Gray" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">
+            <StackPanel Orientation="Horizontal" FlowDirection="RightToLeft" Background="#E0E0E0">
+                <Button x:Name="DetailedButton" Content="Detailed Informayion" Margin="5,5,5,5"/>
+                <Button x:Name="GridButton" Content="Base Grid" Margin="5,5,0,5"/>
+            </StackPanel>
+        </DockPanel>
+
+        <Frame x:Name="BaseFrame" Grid.Column="0" Grid.Row="1" NavigationUIVisibility="Hidden"/>
+        
+    </Grid>
+</Page>

@@ -1,0 +1,28 @@
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\MainWindow.g.cs
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Employee Base_MarkupCompile.cache
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Employee Base_MarkupCompile.lref
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\bin\Debug\Employee Base.exe.config
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\bin\Debug\Employee Base.exe
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\bin\Debug\Employee Base.pdb
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\App.g.cs
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\MainWindow.baml
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Employee Base.g.resources
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Employee_Base.Properties.Resources.resources
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Employee Base.csproj.GenerateResource.cache
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Employee Base.csproj.CoreCompileInputs.cache
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Employee Base.exe
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Employee Base.pdb
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\bin\Debug\MaterialDesignColors.dll
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\bin\Debug\MaterialDesignColors.pdb
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\App.baml
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Employee Base.csproj.CopyComplete
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Pages\BaseGridPage.g.cs
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Pages\BasePage.g.cs
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Pages\EditBasePage.g.cs
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Pages\BaseGridPage.baml
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Pages\BasePage.baml
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Pages\EditBasePage.baml
+G:\GitProjects\Employee Base\Employee-Base\Employee Base\Employee Base\obj\Debug\Employee Base.csprojAssemblyReference.cache
